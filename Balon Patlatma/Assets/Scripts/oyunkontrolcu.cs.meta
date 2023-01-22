@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3958a4b89170eb94d9cd35106471132d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sayac: {instanceID: 0}
+  - balonsayisi: {instanceID: 0}
+  - patlama: {fileID: 5053494730382100404, guid: 85541ecbce598b6409c975411de49ffe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
